@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
 
 import os
+
 # Application definition
 
 INSTALLED_APPS = [
